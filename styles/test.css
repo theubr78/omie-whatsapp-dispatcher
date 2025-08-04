@@ -1,0 +1,17 @@
+/* Teste simples */
+body {
+    background: red !important;
+    color: white !important;
+    font-family: Arial, sans-serif !important;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: yellow !important;
+    font-size: 2rem;
+}
